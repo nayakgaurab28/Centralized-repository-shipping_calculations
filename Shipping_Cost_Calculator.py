@@ -1,5 +1,4 @@
  # Here is a new update by nayakgaurab28
- # Here is another update by nayakgaurab28
 
 # Shipping Cost Calculator
 
